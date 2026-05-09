@@ -1,0 +1,3 @@
+USE C243217;
+
+TRUNCATE TABLE Dummy_courses;

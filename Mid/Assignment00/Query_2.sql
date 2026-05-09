@@ -1,0 +1,9 @@
+USE C243217;
+
+-- CREATE TABLE courses(
+-- 	courseID INT AUTO_INCREMENT PRIMARY KEY,
+--     Cname VARCHAR(30) UNIQUE NOT NULL,
+--     credits INT NOT NULL
+-- );
+
+ALTER TABLE courses RENAME COLUMN Cname TO Course_Title;

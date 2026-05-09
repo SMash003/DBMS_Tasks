@@ -1,0 +1,3 @@
+USE C243217;
+
+DELETE FROM Dummy_students WHERE id=2;

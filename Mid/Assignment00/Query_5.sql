@@ -1,0 +1,3 @@
+USE C243217;
+
+ALTER TABLE students ADD COLUMN Enrolled_CID INT;

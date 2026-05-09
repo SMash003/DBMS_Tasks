@@ -1,0 +1,4 @@
+-- Q8;
+
+SELECT * FROM employee 
+WHERE joining BETWEEN '2022-01-01' AND '2023-12-31';

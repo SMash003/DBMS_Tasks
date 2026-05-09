@@ -1,0 +1,3 @@
+USE C243217;
+
+ALTER TABLE Dummy_students DROP COLUMN email;
